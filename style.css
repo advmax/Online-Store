@@ -186,7 +186,7 @@ header.sticky {
 
 /* trending-section-css*/
 .center-text h2 {
-    color: var(--Color2);
+    color: red;
     font-size: 28px;
     text-transform: capitalize;
     text-align: center;
