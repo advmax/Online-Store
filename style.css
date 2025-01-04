@@ -471,4 +471,8 @@ header.sticky {
         right: 0;
 
     }
+    .logo img {
+    width: 100px;
+    height: 100px;
+}
 }
