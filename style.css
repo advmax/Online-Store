@@ -435,6 +435,7 @@ header.sticky {
 
 @media(max-width:750px){
     .navmenu{
+         background-color: #ff0000;
         position: absolute;
         top: 100%;
         right: -100%;
