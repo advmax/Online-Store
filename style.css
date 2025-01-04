@@ -433,7 +433,7 @@ header.sticky {
     }
 }
 
-@media(max-width:750px){
+@media(max-width:700px){
     .navmenu{
         position: absolute;
         top: 100%;
