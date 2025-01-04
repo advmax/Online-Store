@@ -450,7 +450,8 @@ header.sticky {
     }
     .navmenu a{
         display: block;
-        margin: 18px 0;
+        margin: 10px 0;
+        font-size: 16px;
     }
     .navmenu.open{
         right: 0;
