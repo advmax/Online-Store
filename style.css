@@ -425,7 +425,7 @@ header.sticky {
 
 
 /*Responsive css*/
-@media(max-width:890px){
+@media(max-width:7000px){
     header{
         padding: 20px 3%;
         transition: .4s;
