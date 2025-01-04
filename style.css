@@ -444,13 +444,14 @@ header.sticky {
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding: 120px;
+        padding: 60px 20px;
         transition: all .4s;
 
     }
     .navmenu a{
         display: block;
-        margin: 18px 0;
+        margin: 12px 0;
+        font-size: 18px;
     }
     .navmenu.open{
         right: 0;
