@@ -473,39 +473,6 @@ header.sticky {
 
     }
     .main-home{
-        width: 100%;
-        height: auto;
-        margin-left: 2px;
+        background-size: 0%;
     }  
-    .main-text{
-        margin-top: 90px; 
-    }
-    
-.main-text h5 {
-    color: var(--lightColor);
-    font-size: 14px;
-    text-transform: capitalize;
-    font-weight: 500;
-
-}
-
-.main-text h1 {
-    color: var(--Color3);
-    font-size: 40px;
-    text-transform: capitalize;
-    line-height: 1.1;
-    font-weight: 600;
-    margin: 4px 0 8px;
-}
-
-.main-text p {
-    color: var(--Color2);
-    font-size: 15px;
-    font-style: italic;
-    margin-bottom: 20px;
-
-}
-section {
-    padding: 10% 5%;
-}
 }
